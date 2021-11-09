@@ -33,4 +33,4 @@ When targeting a higher version of Node.js, check the relevant ECMAScript versio
 }
 ```
 
-Inspired by [@sindresorhus](https://github.com/sindresorhus)
+_Inspired by [@sindresorhus](https://github.com/sindresorhus)_
