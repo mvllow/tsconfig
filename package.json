@@ -1,0 +1,25 @@
+{
+	"name": "@mvllow/tsconfig",
+	"version": "0.0.0",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "mvllow/tsconfig",
+	"author": {
+		"name": "Tate Kwiecinski",
+		"email": "tate@mellow.dev",
+		"url": "https://mellow.dev"
+	},
+	"type": "module",
+	"exports": "tsconfig.json",
+	"engines": {
+		"node": ">=12"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"config"
+	]
+}
