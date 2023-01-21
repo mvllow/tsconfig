@@ -10,7 +10,7 @@
 		"url": "https://mellow.dev"
 	},
 	"type": "module",
-	"exports": "tsconfig.json",
+	"exports": "./tsconfig.json",
 	"engines": {
 		"node": ">=14"
 	},
