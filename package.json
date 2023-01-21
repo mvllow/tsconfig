@@ -12,7 +12,7 @@
 	"type": "module",
 	"exports": "tsconfig.json",
 	"engines": {
-		"node": ">=12"
+		"node": ">=14"
 	},
 	"scripts": {
 		"release": "np --no-tests"
