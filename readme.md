@@ -28,7 +28,7 @@ When targeting a higher version of Node.js, check the relevant ECMAScript versio
 	"extends": "@mvllow/tsconfig",
 	"compilerOptions": {
 		"outDir": "dist",
-		"target": "ES2021"
+		"target": "ES2024"
 	}
 }
 ```
