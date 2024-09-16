@@ -15,7 +15,7 @@
 		"node": ">=14"
 	},
 	"scripts": {
-		"release": "np --no-tests"
+		"release": "npx np --no-tests"
 	},
 	"files": [
 		"tsconfig.json"
@@ -24,8 +24,5 @@
 		"tsconfig",
 		"typescript",
 		"config"
-	],
-	"devDependencies": {
-		"np": "^7.5.0"
-	}
+	]
 }
